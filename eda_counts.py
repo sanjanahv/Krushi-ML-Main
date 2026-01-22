@@ -1,7 +1,8 @@
 import os
 import matplotlib.pyplot as plt
 
-DATA_DIR = "."
+DATA_DIR = "dataset/raw"
+
 classes = []
 counts = []
 

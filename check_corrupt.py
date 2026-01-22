@@ -1,6 +1,7 @@
 import os, cv2
 
-DATA_DIR = "."
+DATA_DIR = "dataset/raw"
+
 bad = 0
 
 for cls in os.listdir(DATA_DIR):
